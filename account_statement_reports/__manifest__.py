@@ -31,6 +31,7 @@
         "report/customer_statement.xml",
         "report/vendor_statement.xml",
     ],
+    "images": ["images/main_screenshot.png"],
 
     "installable": True,
     "application": False,
